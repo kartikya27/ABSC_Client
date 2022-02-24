@@ -6,7 +6,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '',
+	'hostname' => 'localhost',
 	'username' => 'u745874161_absc_db_user@217.21.84.52',
 	'password' => 'Absc_db_password@123',
 	'database' => 'u745874161_absc_db',
