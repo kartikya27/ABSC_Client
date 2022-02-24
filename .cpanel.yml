@@ -1,0 +1,10 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH= /home/qkihztilxlk9/public_html/projects.letsgolive.in/absc/
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp -R admin_styles $DEPLOYPATH
+    - /bin/cp -R application $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R system $DEPLOYPATH
