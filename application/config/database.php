@@ -11,7 +11,7 @@ $db['default'] = array(
 	'username' => 'u745874161_absc_db_user',
 	'password' => 'Absc_db_password@123',
 	'database' => 'u745874161_absc_db',
-	'dbdriver' => 'mysqli',
+	'dbdriver' => 'mysql',
 	'dbprefix' => '',
 	'pconnect' => TRUE,
 // 	'db_debug' => (ENVIRONMENT !== 'production'),
