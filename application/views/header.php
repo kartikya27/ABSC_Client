@@ -54,7 +54,7 @@
 							<ul>
 								<li class="address">
 									<i class="icon flaticon-placeholder"></i>
-									<h6>Address:</h6>
+									<h6>Address: </h6>
 									<p>F-305, BL-2C, Paramount Residency <br> Nagaram, Rangareddi TG -500 083, India</p>
 								</li>
 								<li class="address">
