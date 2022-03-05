@@ -3,6 +3,7 @@
 	
 
 <head>
+	<title>Business Excellence and Data Analytics</title>
 		<meta charset="UTF-8">
 		<!-- For IE -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,7 +16,7 @@
 		<meta name="msapplication-navbutton-color" content="#061948">
 		<!-- iOS Safari -->
 		<meta name="apple-mobile-web-app-status-bar-style" content="#061948">
-	
+	   <meta name="description" content="corporate training, business excellence, machine learning, AI , Artificial Intelligence, Data Science and training in nigeria, Data Science and training in Africa, Data Science and training in Ghana, Data Science and training in South Africa, Data Science and training in India, Data Science and training in UK , ESG, ESG-SDG , Sustainability Analytics , Business forecasting, Business Solutions, Resource training">
 		<!-- Favicon -->
 		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
 		<!-- Main style sheet -->
@@ -46,7 +47,9 @@
 			<header class="header-one">
 				<div class="top-header">
 					<div class="container clearfix">
-						<div class="logo float-left"><a href="index"><img src="https://www.biznpsstat-absc.solutions/my_content/uploads/2020/11/login.png" alt=""></a></div>
+						<div class="logo float-left"><a href="index"><img src="https://www.biznpsstat-absc.solutions/my_content/uploads/2020/11/login.png" alt=""></a>
+                 <p>AGGREGATE - BUILD - SCALE - CUSTOMIZE</p>
+						</div>
 						<div class="address-wrapper float-right">
 							<ul>
 								<li class="address">
@@ -59,7 +62,7 @@
 									<h6>Mail us:</h6>
 									<p>enquiry@biznpsstat-absc.solutions</p><p>anup@biznpsstat-absc.solutions</p>
 								</li>
-								<li class="quotes"><a href="#" style="padding: 0 10px;">Download</a></li>
+								<li class="quotes"><a href="#" style="padding: 0 10px;">Download Company Profile</a></li>
 							</ul>
 						</div> <!-- /.address-wrapper -->
 					</div> <!-- /.container -->

@@ -250,26 +250,26 @@ Business Company!!</h2>
 							<div class="row">
 								<div class="col-md-3 col-6">
 									<div class="single-counter-box">
-				        				<div class="number"><span class="timer" data-from="0" data-to="100" data-speed="1200" data-refresh-interval="5">0</span>+</div>
-				        				<p>Happy Clients</p>
+				        				<div class="number"><span class="timer" data-from="0" data-to="800" data-speed="1200" data-refresh-interval="5">0</span>+</div>
+				        				<p>Happy Trainees</p>
 				        			</div> <!-- /.single-counter-box -->
 								</div>  <!-- /.col- -->
 								<div class="col-md-3 col-6">
 									<div class="single-counter-box">
 				        				<div class="number"><span class="timer" data-from="0" data-to="50" data-speed="1200" data-refresh-interval="5">0</span>+</div>
-				        				<p>Successfull Projects</p>
+				        				<p>High Impact Projects</p>
 				        			</div> <!-- /.single-counter-box -->
 								</div>  <!-- /.col- -->
 								<div class="col-md-3 col-6">
 									<div class="single-counter-box">
-				        				<div class="number"><span class="timer" data-from="0" data-to="15" data-speed="1200" data-refresh-interval="5">0</span>+</div>
-				        				<p>Years of experince</p>
+				        				<div class="number"><span class="timer" data-from="0" data-to="20" data-speed="1200" data-refresh-interval="5">0</span>+</div>
+				        				<p>Years of Experience</p>
 				        			</div> <!-- /.single-counter-box -->
 								</div>  <!-- /.col- -->
 								<div class="col-md-3 col-6">
 									<div class="single-counter-box">
-				        				<div class="number"><span class="timer" data-from="0" data-to="500" data-speed="1200" data-refresh-interval="5">0</span>+</div>
-				        				<p>Online Sessions</p>
+				        				<div class="number"><span class="timer" data-from="0" data-to="3000" data-speed="1200" data-refresh-interval="5">0</span>+</div>
+				        				<p>Hours of Training Sessions</p>
 				        			</div> <!-- /.single-counter-box -->
 								</div>  <!-- /.col- -->
 							</div> <!-- /.row -->
